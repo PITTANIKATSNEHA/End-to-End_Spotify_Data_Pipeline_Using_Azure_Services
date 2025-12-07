@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureprojectsne",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d918faab-0ef1-41f9-9d90-49656fc61668",
+		"tenantId": "1939e014-6aef-46f4-a684-a67b4087f90b"
+	}
+}
